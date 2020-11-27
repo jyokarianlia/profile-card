@@ -1,8 +1,22 @@
 body {
     text-align: center;
-    background-color: black;
+    background-color: #1ba1ad;
 }
 
-.container{
-    border-radius: 5px;
+.container {
+    margin: 0;
+    padding: 0%;
+    width: 300px;
+    background-color: white;
+    border-radius: 13px;
+}
+
+.img1 {
+    border-radius: 13px 13px 0px 0px;
+}
+
+.img2 {
+    border-radius: 50%;
+    position: relative;
+    top: -46px;
 }
